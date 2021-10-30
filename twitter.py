@@ -1,9 +1,3 @@
-#print(sys.path)
-# sys.path.append('/home/trey/.local/bin')
-# sys.path.append('/home/trey/.local/lib')
-# sys.path.append('/home/trey/.local')
-# sys.path.append('/home/trey/market_data_infra')
-
 import sys
 import os
 import config
